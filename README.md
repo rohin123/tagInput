@@ -1,8 +1,8 @@
 # tagInput
 
 # start server: 
-npm install
-webpack
+npm install <br/>
+webpack <br/>
 npm start
 
 # Run testcases:
