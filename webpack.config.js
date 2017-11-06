@@ -3,7 +3,6 @@ var webpack = require('webpack');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 var OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 //const CommonsChunkPlugin = require("webpack/lib/optimize/CommonsChunkPlugin");
-//var importer = require("node-sass-importer");
 
 module.exports = {
     context:path.resolve(__dirname),
